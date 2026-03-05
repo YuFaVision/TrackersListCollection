@@ -7,7 +7,7 @@
 
 Updated daily! A list of popular BitTorrent Trackers. **If you feel good, please [⭐](https://github.com/XIU2/TrackersListCollection/stargazers)!**  
 
-Integrated the popular Tracker, after filtering, finally got a high-quality Tracker list collection ~  
+I've put together a kick-ass list of top-notch trackers by scouring the web and handpicking only the best ones. It's good enough for my own use, so I thought I'd share it with y'all~  
 
 > 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」(位于 [trackerslist.com](https://trackerslist.com/#/zh) 的访客，可通过右上角切换语言 ↗)  
 
@@ -15,40 +15,43 @@ Integrated the popular Tracker, after filtering, finally got a high-quality Trac
 
 ### What is Tracker?
 
-Tracker is a necessary role in BT download, it can effectively improve BT download speed.  
+Tracker plays a necessary role in BT download, it can effectively improve BT download speed.  
 
 > Record user information that downloads the same resource to **help you connect with other users**.  
 
-_The figure below shows the BT download speed after using Tracker. (all.txt)_  
+_The figure below shows the BT download speed after using Tracker. (best.txt)_  
 
-![BitComet](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-01.png)
-![qBittorrentEE](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-02.png)
+![BitComet](https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-01.png)
+![qBittorrentEE](https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-02.png)
 
-_You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu.torrent**](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
+_You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu.torrent**](https://ubuntu.com/download/alternative-downloads#bittorrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
 
 ****
 
-### Updated: 2022-12-03
+### Updated: 2026-03-05
 
-- **BEST Tracker list:** (123 trackers)  
- _**[https://trackerslist.../best.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt)**_  
-- **ALL Tracker list:** (199 trackers)  
- _**[https://trackerslist.../all.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt)**_  
-- **HTTP(S) Tracker list:** (64 trackers)  
- _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
+- **BEST Tracker list:** (74 trackers)  
+ _**https://cf.trackerslist.com/best.txt**_  
+- **ALL Tracker list:** (143 trackers)  
+ _**https://cf.trackerslist.com/all.txt**_  
+- **HTTP(S) Tracker list:** (66 trackers)  
+ _**https://cf.trackerslist.com/http.txt**_  
+- **No HTTP Tracker list:** (100 trackers)  
+ _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>
 <summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
 
 ****
 
-\# **The following is an example of the complete list `all.txt` (modify the file name as needed):**  
+\# **Here is an example of a selection of `best.txt` (modify the file name as needed):**  
 
-- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
-- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt**_  
+- _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
+- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://cdn.statically.io/gh/XIU2/TrackersListCollection/master/best.txt**_  
+- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
 
 </details>
 
@@ -61,9 +64,10 @@ _You can judge whether there is a problem with the BT configuration and network 
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- _**[https://trackerslist.../best_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
-- _**[https://trackerslist.../all_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
-- _**[https://trackerslist.../http_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
+- ***https://cf.trackerslist.com/best_aria2.txt***  
+- ***https://cf.trackerslist.com/all_aria2.txt***  
+- ***https://cf.trackerslist.com/http_aria2.txt***  
+- ***https://cf.trackerslist.com/nohttp_aria2.txt***  
 
 </details>
 
@@ -79,18 +83,15 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 > <small>_**http://www.bitcomet.com**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-10.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-10.png" width="50%">
 
 ****
 
 #### qBittorrent Enhanced Edition:
 
 > <small>_**https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
-> <small>Based qBittorrent, added many useful features, such as **Subscribing to Tracker URL** , you can easily use with this project.</small>  
 
-After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
-
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-11.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-15.png" width="50%">
 
 ****
 
@@ -98,7 +99,14 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://www.qbittorrent.org**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-12.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-15.png" width="50%">
+
+<details>
+<summary><strong><code>[Click to expand] - See how old versions below qBittorrent v5.0 work</code></strong></summary>
+
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-12.png" width="50%">
+
+</details>
 
 ****
 
@@ -106,27 +114,25 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://motrix.app**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-13.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-13.png" width="50%">
 
 ****
 
-#### File Centipede:
+> In addition, considering that the project is just a small project with simple functions, I don't want to involve too much energy, **so I closed Issues and no longer accept submission Tracker addresses.**  
 
-> <small>_**http://www.filecxx.com**_</small>
-
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-14.png" width="50%">
+> If you find an obvious error, or want to delete a Tracker, you can submit a **Pull request** to alert me.
 
 ****
 
 ### Tracker Source
 
 This project brings together the following list of public trackers:
-* [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
-* [https://newtrackon.com/list](https://newtrackon.com/list)
-* [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
-* [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
-* [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
-* [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
+* https://github.com/ngosang/trackerslist
+* https://newtrackon.com/list
+* https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+* https://tinytorrent.net/best-torrent-tracker-list-updated/
+* https://www.torrenttrackerlist.com/torrent-tracker-list
+* https://github.com/DeSireFire/animeTrackerList
 
 Thanks for these projects!
 
